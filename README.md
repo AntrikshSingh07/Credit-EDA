@@ -1,4 +1,4 @@
-# Credit EDA Case Study
+# Credit Exploratory Data Analysis Case Study
 
 # Problem Statement
 
