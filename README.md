@@ -38,6 +38,7 @@ To develop your understanding of the domain, you are advised to independently re
 
 Download the dataset from following link:
 https://drive.google.com/drive/folders/1pwF2F54srYR_YTd5KwO_NkL69oxi7iuJ?usp=drive_link
+
 This dataset has 3 files as explained below: 
 1. **application_data.csv**  contains all the information of the client at the time of application.
 The data is about whether a client has payment difficulties.
